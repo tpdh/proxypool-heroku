@@ -7,7 +7,9 @@
 - type: subscribe
   options:
     url: https://subconverter.saraphine.cf/sub?target=mixed&url=https%3A%2F%2Fpaste.in%2Fraw%2FO8z13H&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Mini.ini&emoji=true&list=false&udp=false&tfo=false&scv=true&fdn=false&sort=false
-
+- type: subscribe
+  options:
+    url: https://gfwairport.icu/api/v1/client/subscribe?token=b1e9ae805d11658939ef0d59040c1bdd
 # 网页模糊抓取
 - type: webfuzz
   options:
