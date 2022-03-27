@@ -1,6 +1,6 @@
 - type: clash
   options:
-    url: https://paste.in/raw/O8z13H
+    url: https://raw.githubusercontent.com/tpdh/proxy-node/main/clash/socksboom?token=GHSAT0AAAAAABS5RJ7IULM3O4ACEXLRZXZWYSAFRMA
 # 模糊抓取订阅链接
 ##- type: webfuzzsub
 #  options:
